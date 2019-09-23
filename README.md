@@ -1,4 +1,6 @@
 # hello-world
-this is my first repo
+This is my first repository.
 
-This is the first time I am trying out github
+There is a bug i want to solve. 
+
+This is the 1st time I am trying out github!
